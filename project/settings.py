@@ -1,6 +1,6 @@
 import os 
 
-REPO_NAME = "kdshub" #Used for FREEZER_BASE_URL
+REPO_NAME = "khoury-ds-hub.github.io" #Used for FREEZER_BASE_URL
 DEBUG = True 
 
 
